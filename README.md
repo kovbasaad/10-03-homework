@@ -36,7 +36,6 @@
 *Соберите модель, состоящую из двух виртуальных машин. Установите pacemaker, corosync, pcs. Настройте HA кластер.*
 
 
-
 ```
 totem {
     version: 2
@@ -73,7 +72,7 @@ logging {
 }
 ```
 
-`При необходимости прикрепитe сюда скриншоты
+
 ![3-1](https://github.com/kovbasaad/10-03-homework/blob/main/img/10.jpeg)
 ![3-2](https://github.com/kovbasaad/10-03-homework/blob/main/img/10-1.jpeg)
 
@@ -103,7 +102,7 @@ syncer {
         address 192.168.1.1:7794;
         meta-disk internal;
     }
-    on deb11
+    on deb10-1
     {
         device /dev/drbd2;
         disk /dev/vg0/www;
@@ -135,7 +134,7 @@ syncer {
         address 192.168.1.1:7795;
         meta-disk internal;
     }
-    on deb11
+    on deb10-1
     {
         device /dev/drbd3;
         disk /dev/vg0/mysql;
