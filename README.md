@@ -76,6 +76,8 @@ logging {
 ![3-1](https://github.com/kovbasaad/10-03-homework/blob/main/img/10.jpeg)
 ![3-2](https://github.com/kovbasaad/10-03-homework/blob/main/img/10-1.JPG)
 
+https://github.com/kovbasaad/10-03-homework/blob/main/backuppcs.tar.bz2
+
 ### Задание 4*
 
 *Установите и настройте DRBD сервис для настроенного кластера.*
