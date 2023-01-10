@@ -74,7 +74,7 @@ logging {
 
 
 ![3-1](https://github.com/kovbasaad/10-03-homework/blob/main/img/10.jpeg)
-![3-2](https://github.com/kovbasaad/10-03-homework/blob/main/img/10-1.jpg)
+![3-2](https://github.com/kovbasaad/10-03-homework/blob/main/img/10-1.JPG)
 
 ### Задание 4*
 
